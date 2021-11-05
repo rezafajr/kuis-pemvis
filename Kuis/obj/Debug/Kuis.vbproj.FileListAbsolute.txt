@@ -1,0 +1,24 @@
+D:\robih\Kuis\bin\Debug\Kuis.exe.config
+D:\robih\Kuis\bin\Debug\Kuis.exe
+D:\robih\Kuis\bin\Debug\Kuis.pdb
+D:\robih\Kuis\bin\Debug\Kuis.xml
+D:\robih\Kuis\obj\Debug\Kuis.vbprojAssemblyReference.cache
+D:\robih\Kuis\obj\Debug\Kuis.Form1.resources
+D:\robih\Kuis\obj\Debug\Kuis.Resources.resources
+D:\robih\Kuis\obj\Debug\Kuis.vbproj.GenerateResource.cache
+D:\robih\Kuis\obj\Debug\Kuis.vbproj.CoreCompileInputs.cache
+D:\robih\Kuis\obj\Debug\Kuis.exe
+D:\robih\Kuis\obj\Debug\Kuis.xml
+D:\robih\Kuis\obj\Debug\Kuis.pdb
+C:\Users\Lenovo\Documents\kuliah\semester 5\vb\Kuis\bin\Debug\Kuis.exe.config
+C:\Users\Lenovo\Documents\kuliah\semester 5\vb\Kuis\bin\Debug\Kuis.exe
+C:\Users\Lenovo\Documents\kuliah\semester 5\vb\Kuis\bin\Debug\Kuis.pdb
+C:\Users\Lenovo\Documents\kuliah\semester 5\vb\Kuis\bin\Debug\Kuis.xml
+C:\Users\Lenovo\Documents\kuliah\semester 5\vb\Kuis\obj\Debug\Kuis.vbproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\kuliah\semester 5\vb\Kuis\obj\Debug\Kuis.Form1.resources
+C:\Users\Lenovo\Documents\kuliah\semester 5\vb\Kuis\obj\Debug\Kuis.Resources.resources
+C:\Users\Lenovo\Documents\kuliah\semester 5\vb\Kuis\obj\Debug\Kuis.vbproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\kuliah\semester 5\vb\Kuis\obj\Debug\Kuis.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\kuliah\semester 5\vb\Kuis\obj\Debug\Kuis.exe
+C:\Users\Lenovo\Documents\kuliah\semester 5\vb\Kuis\obj\Debug\Kuis.xml
+C:\Users\Lenovo\Documents\kuliah\semester 5\vb\Kuis\obj\Debug\Kuis.pdb
